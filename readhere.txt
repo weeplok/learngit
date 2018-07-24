@@ -1,4 +1,8 @@
-# testfile for git 
-# 2018/07/24
+# test for git 
 Git is a version control system.
-Git is a free software
+Git is a free software,wroted by linus
+
+
+
+Add here, rencently!
+This file is edited by adding this line.
